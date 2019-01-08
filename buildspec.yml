@@ -16,5 +16,3 @@ phases:
 artfacts:
   files:
     - target/messageUtil-1.0.jar
-
-   
